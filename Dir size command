@@ -1,3 +1,0 @@
-Df -h /check all part
-du -sh /Current size
-du -sh -- * /list all folder size
