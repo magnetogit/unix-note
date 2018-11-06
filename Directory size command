@@ -1,0 +1,2 @@
+du -sh /Current size
+du -sh -- * /list all folder size
